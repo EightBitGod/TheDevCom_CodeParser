@@ -4,10 +4,12 @@
 + Clone this repo.
 + Open terminal in the cloned directory.
 + Run the following commands.
+
   Linux :
   
   `chmod +x cpp2python.py`
   
   `./cpp2python.py -i <INPUT_FILENAME> -o <OUTPUT_FILENAME>` 
+
 
 
